@@ -1,3 +1,4 @@
+<img src="https://i.ppy.sh/d63442dcb8915507176a0d690c3c95b2202e0e7b/68747470733a2f2f696d6775722d617263686976652e7070792e73682f6d445a363541582e676966" alt="JavaScript" width=100% height="300" />
 <p align="center"><b>Hi, Ashwin here! 👋</b></p>
 
 <p align="center">
